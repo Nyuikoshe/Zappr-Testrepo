@@ -1,6 +1,7 @@
 approvals:
- minimum: 2
+ minimum: 1
+ ignore: pr_opener
  from:
   users: 
    - milkmaaan
-   - nyuikoshe
+   - Nyuikoshe
