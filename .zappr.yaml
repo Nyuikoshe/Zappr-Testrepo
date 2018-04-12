@@ -1,5 +1,3 @@
 approvals:
  minimum: 1
- from:
-  collaborators:true
  
