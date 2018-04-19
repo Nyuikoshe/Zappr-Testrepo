@@ -1,7 +1,40 @@
 approvals:
  minimum: 1
+ 
+ # approval = comment that matches this regex
+ # pattern: ""
+ 
+ # veto = comment that blocks a PR
+ # veto:
+  # pattern: ""
+ 
+ # request from pr_opener, last_committer or both can be ignored, default none
  ignore: pr_opener
+ 
+ # will accept comments from the following
  from:
+  # a pulbic member from "organization"
+  # orgs: 
+   # - "organization"
+  # OR a collaborator of the repo
+  # collaborators: true
+  # OR one of these guys
   users: 
    - milkmaaan
    - Nyuikoshe
+   
+ # you can define groups from which you  
+ # require approvals
+ # groups:
+  # define "group1"
+  # group1:
+   # approval check will fail if not at least one member approves
+   # minimum: 1   
+   # define group members
+   # from:
+   
+ # define patterns for commit messages
+ # commit:
+  # message:
+   # has to begin with one of the following patterns
+   # patterns:
