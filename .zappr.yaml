@@ -1,6 +1,9 @@
 approvals:
  minimum: 1
- ignore: pr_opener
+ # ignore: pr_opener
+ 
+ veto "^(:\\-1:|👎)$"
+ 
  from:
   users: 
    - milkmaaan
