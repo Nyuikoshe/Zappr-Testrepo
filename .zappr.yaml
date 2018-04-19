@@ -23,8 +23,8 @@ approvals:
    - milkmaaan
    - Nyuikoshe
    
- # you can define groups from which you  
- # require approvals
+ # you can define groups from which you require approvals
+ # are counted against total amount of approvals
  # groups:
   # define "group1"
   # group1:
