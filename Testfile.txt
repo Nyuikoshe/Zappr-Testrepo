@@ -3,3 +3,5 @@ Neue Testzeile
 Test von Veto
 pr_opener Veto ignored? -> no, it can not be.
 regexpattern should be changed.
+Yes, it is. Now you approve over the message "approved"!
+Likely to be changed back to thumbs up though.
