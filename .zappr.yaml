@@ -4,6 +4,7 @@ approvals:
  
  veto:
   pattern: "^(:\\-1:|👎)$"
+  ignore: pr_opener
  
  from:
   users: 
