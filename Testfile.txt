@@ -7,3 +7,5 @@ Yes, it is. Now you approve over the message "approved"!
 Likely to be changed back to thumbs up though.
 "approved" will be contd for now, but thumbs up is in too.
 Are :\+1: | :\-1: valid patterns?
+
+pr_opener can't review his own pr, what if he is the only one that can approve via CODEOWNER file?
