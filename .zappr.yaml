@@ -1,6 +1,6 @@
 approvals:
  #you can check for a special approval pattern
- pattern: "^(approved)$"
+ pattern: "^(approved|:\\+1:|👍)$"
  minimum: 1
  # ignore: pr_opener
  
