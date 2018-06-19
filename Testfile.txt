@@ -1,4 +1,4 @@
 Das ist eine Testdatei
 Neue Testzeile
 Test von Veto
-pr_opener Veto ignored?
+pr_opener Veto ignored? -> no, it can not be.
