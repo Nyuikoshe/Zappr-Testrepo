@@ -1,12 +1,17 @@
 approvals:
+ #you can check for a special approval pattern
+ pattern: "^(approved)$"
  minimum: 1
  # ignore: pr_opener
  
  veto:
   pattern: "^(:\\-1:|👎)$"
-  ignore: pr_opener
  
  from:
   users: 
    - milkmaaan
    - Nyuikoshe
+ 
+ #groups:
+  #these have their own full approval sub-structure
+  #w/ minimum, from, etc.
