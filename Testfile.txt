@@ -12,5 +12,4 @@ pr_opener can't review his own pr, what if he is the only one that can approve v
 With two people only, the other one is required to review.
 
 Does the notification for Codeowners work correct?
-New line added. 
-Another one.
+Yes, Codeowners that are watching get notified.
